@@ -10,8 +10,9 @@ The project works as follows:
 2. The program then opens an image or turns on the webcam and starts recognizing faces in the image or video stream.
 3. If the recognized face is in the database, the program grants access, such as opening a door. If the face is not in the database, the program denies access.
 
-The project uses the following libraries:
+
 ## Dependencies
+The project uses the following libraries:
 1. face_recognition
 2. dlib
 
